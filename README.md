@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a Final Year Software Engineering Graduate Apprentice, studying and working at the University of Glasgow.
+I am the president of the Hacking Society at Glasgow University, please check us out here: https://github.com/GUHackSoc
+
+I'm currently working on material for the Hacking Society workshops, my dissertation project and updating my website: https://callumduncansmith.com.
+
+Feel free to connect with me on LinkedIn for more info about what I'm up to!
+
 <!--
 **Callumator/Callumator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
